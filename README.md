@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugurcandurna3301" alt="ugurcandurna3301" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@uurdrn01" target="blank"><img src="https://img.shields.io/twitter/follow/@uurdrn01?logo=twitter&style=for-the-badge" alt="@uurdrn01" /></a> </p>
 
 - 🔭 I’m currently working on **javascript and C++**
 
